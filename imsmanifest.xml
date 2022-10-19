@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<manifest identifier="pmK3pBttMqr5XmaaNj1X0I1JM52Zo5hNO1G4emoK" version="1"
+<manifest identifier="pmK3pBttMqr5XmaaNj1X0I1JM52Zo5hN_ROigbNG" version="1"
   xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
   xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -16,7 +16,7 @@
       <title>Product Training: Electric Vehicles</title>
       <item identifier="i1" identifierref="r1" isvisible="true">
         <title>Product Training: Electric Vehicles</title>
-        <adlcp:datafromlms>eyJjcHYiOiJPMUc0ZW1vSyIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+        <adlcp:datafromlms>eyJjcHYiOiJfUk9pZ2JORyIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
       </item>
     </organization>
   </organizations>
@@ -65,43 +65,42 @@
 <file href="scormcontent/lib/fonts/Inter-Bold.woff" />
 <file href="scormcontent/lib/fonts/Inter-Regular.woff" />
 <file href="scormcontent/lib/fonts/Inter-Light.woff" />
-<file href="scormcontent/assets/t9aAlNC6zY1Tj3_z_small_1634184407.png" />
-<file href="scormcontent/assets/qOl70FsLbEQd4YpZ_gkwW6vRo-HS4g35N.svg" />
-<file href="scormcontent/assets/t6BgSHClp3PHXJVc__Wm1keSexQJLM3_u.jpg" />
-<file href="scormcontent/assets/SvRuP3Mk3btWBHxm_GNLJpS8ahImhZWrj.png" />
-<file href="scormcontent/assets/JRLlzmL9UKfWFS4m_dUHZLUxHHfU99Mv6.jpg" />
-<file href="scormcontent/assets/v77QJ2bUdE1hwRn2_F4qi7j4uBpjxN4A_.jpg" />
-<file href="scormcontent/assets/5hehyv4H6ybG_jTW_tOTEywoDnydBHoxV.png" />
-<file href="scormcontent/assets/8YTlLZims-ErTj0C_dKi4_hw5HZs08bDc.jpg" />
-<file href="scormcontent/assets/XZXZRmO7Neu5Yai9_mNCsDfq8hl2FemGg.png" />
-<file href="scormcontent/assets/ryylxLtGaDyvHFfl_68tYhnTD8g8ocV1L.png" />
-<file href="scormcontent/assets/1T1d-MMa-tz3HiEX_rrcoQc_u0vETnYon.png" />
-<file href="scormcontent/assets/DLab_X-N3H1h7-la_6PtRW8Sy7K2lveuc.jpg" />
-<file href="scormcontent/assets/FAlfXpf0nKOQQ_gp_-9I0pagBtFA3V4WC.png" />
-<file href="scormcontent/assets/9hDgThY8XUF4-IMU_VEu7ek3fRRqpA1fX.jpg" />
-<file href="scormcontent/assets/m4lkDUZTtd6ExVdU_yqZbV5McUWrJAfSS.jpg" />
-<file href="scormcontent/assets/yoSdzgbky41_at37_XhJXs2fQDcYv-I_N.png" />
-<file href="scormcontent/assets/6ZqaUURSl7FPbR4Z_v8SlFjS-2vVYF_hh.png" />
-<file href="scormcontent/assets/4WWAaWB-uM2oOjgm_MdMojbzp6Z3iL6Tw.jpg" />
-<file href="scormcontent/assets/5qlQNuRTYb147l1W_w--mlYdn66toqVcU.png" />
-<file href="scormcontent/assets/Fntyky4eUZZn0VO1_xNl7jO8dK4SwNRal.png" />
-<file href="scormcontent/assets/XjzmEJZQbfDlZ-pv_CS2RkGGoL_ImVVMH.png" />
-<file href="scormcontent/assets/rAxnCVZ96RoicL7-_THo5aInEWnqgesAU.png" />
-<file href="scormcontent/assets/fBxBoj5-ZuIyRHkE_wJdp2ncvxs2KJ_mn.png" />
-<file href="scormcontent/assets/bkYLuTf05oloqDPR_oDiPsaVy-s3u1DOP.png" />
-<file href="scormcontent/assets/9f7497m-xNC8F0fe_QcFO9bUec_4MuCEk.png" />
-<file href="scormcontent/assets/cFFfiG5157lRh4Q0_h-AJ0bphNPmWRO8O.png" />
-<file href="scormcontent/assets/khhG1fCjWBOIKPev_M2FS90i4KOHwYBJn.jpg" />
-<file href="scormcontent/assets/cZbjn6mnYrDnXus6_qcFo8BkXEC8yqF_k.png" />
-<file href="scormcontent/assets/OopnwOvr0rlpeK8D_ecxXW8lKekiZzE8z.png" />
-<file href="scormcontent/assets/P_g8D5K5kGji0dBL_uiBAQkM-S_AZR66I.jpg" />
-<file href="scormcontent/assets/RaOvlOYLzblNNI0D_coastline_poster.png" />
-<file href="scormcontent/assets/hIEGbXX5NEkqxKYD_coastline.mp4" />
-<file href="scormcontent/assets/HiZnEXCtVjypI3MP_Sr7190cgiNsRYKID.jpg" />
-<file href="scormcontent/assets/zNO4revNPXCzg8-e_gxfgh1v5UZFFl-sn.jpg" />
-<file href="scormcontent/assets/HhICSVyhFK6tbR2O_Io5W-4bdQjmJ9hO0.jpg" />
-<file href="scormcontent/assets/MYFJMQ40EOTs5XlD_cover-image-0.jpg" />
-<file href="scormcontent/assets/4w6uS7z3OX9g6ygQ_example-header-image.jpg" />
+<file href="scormcontent/assets/y8sbU724Rw1H5FZl_small_1634184407.png" />
+<file href="scormcontent/assets/8Fy34vm2wVDZz7E3__Wm1keSexQJLM3_u.jpg" />
+<file href="scormcontent/assets/Kq85Ye8xU92p7zPZ_GNLJpS8ahImhZWrj.png" />
+<file href="scormcontent/assets/1tUOx7C3IWZjoLWf_dUHZLUxHHfU99Mv6.jpg" />
+<file href="scormcontent/assets/6AAaWCwzd0lKnFFb_F4qi7j4uBpjxN4A_.jpg" />
+<file href="scormcontent/assets/HESVXYmmnGn534_g_tOTEywoDnydBHoxV.png" />
+<file href="scormcontent/assets/f7xQbn-YbWHQ1J70_dKi4_hw5HZs08bDc.jpg" />
+<file href="scormcontent/assets/YlhXVzX-Dcsx-iMi_mNCsDfq8hl2FemGg.png" />
+<file href="scormcontent/assets/PBwSEGoLIsgMT8Ns_68tYhnTD8g8ocV1L.png" />
+<file href="scormcontent/assets/33gJL8Zj5IhEKhB2_rrcoQc_u0vETnYon.png" />
+<file href="scormcontent/assets/y4X__hiW00Gu3FD7_6PtRW8Sy7K2lveuc.jpg" />
+<file href="scormcontent/assets/juMqMjpiLMsJLLYr_-9I0pagBtFA3V4WC.png" />
+<file href="scormcontent/assets/u_Lom5--QXYNgXtf_VEu7ek3fRRqpA1fX.jpg" />
+<file href="scormcontent/assets/6_9YMTFQAEAtOjN0_yqZbV5McUWrJAfSS.jpg" />
+<file href="scormcontent/assets/m_5cZxpm-8mB1wtx_XhJXs2fQDcYv-I_N.png" />
+<file href="scormcontent/assets/LTLm-PSj2AnoZuii_v8SlFjS-2vVYF_hh.png" />
+<file href="scormcontent/assets/pXpKR5gK0qy40hA__MdMojbzp6Z3iL6Tw.jpg" />
+<file href="scormcontent/assets/DC_IlnKpQAW3NdEs_w--mlYdn66toqVcU.png" />
+<file href="scormcontent/assets/3KYN2VJzeKyibbBz_xNl7jO8dK4SwNRal.png" />
+<file href="scormcontent/assets/tVmgmegRu6EN3Ydy_CS2RkGGoL_ImVVMH.png" />
+<file href="scormcontent/assets/yThS48ll1tCSN4Mt_THo5aInEWnqgesAU.png" />
+<file href="scormcontent/assets/rqT4dn71TMvSsggg_wJdp2ncvxs2KJ_mn.png" />
+<file href="scormcontent/assets/jtt7TDh5BK4zsgYM_oDiPsaVy-s3u1DOP.png" />
+<file href="scormcontent/assets/kVjANCWykKFE5Hz4_QcFO9bUec_4MuCEk.png" />
+<file href="scormcontent/assets/Q4kxhM4o_f5vpfZp_h-AJ0bphNPmWRO8O.png" />
+<file href="scormcontent/assets/ozFMIIAS1Z_2v3ya_M2FS90i4KOHwYBJn.jpg" />
+<file href="scormcontent/assets/CIQ9i_C9WrERILfs_qcFo8BkXEC8yqF_k.png" />
+<file href="scormcontent/assets/5vUL5KtjHqjsD6kT_ecxXW8lKekiZzE8z.png" />
+<file href="scormcontent/assets/I6skd5BetRNJ128v_uiBAQkM-S_AZR66I.jpg" />
+<file href="scormcontent/assets/4QI7bXn695gQYgH__coastline_poster.png" />
+<file href="scormcontent/assets/KzRKWGuFBG5GODN5_coastline.mp4" />
+<file href="scormcontent/assets/DGVK5aijW-eWudj5_Sr7190cgiNsRYKID.jpg" />
+<file href="scormcontent/assets/Zms3vOKMSSgbmGeJ_gxfgh1v5UZFFl-sn.jpg" />
+<file href="scormcontent/assets/Mc3WEoM1VPbn1HCQ_Io5W-4bdQjmJ9hO0.jpg" />
+<file href="scormcontent/assets/JxP0yolHUBSmgyZ__cover-image-0.jpg" />
+<file href="scormcontent/assets/koIONSVQtdUWEb7q_example-header-image.jpg" />
 
     </resource>
   </resources>
